@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Impresionismo",
+    "characteristics": [
+      "Melodías poco definidas o fragmentadas",
+      "Acordes sofisticados",
+      "Uso de escalas antiguas y pentatónicas",
+      "Instrumentación especial (oboè, corn anglés, arpa, metalls amb sordina...)"
+    ],
+    "composers": [
+      "Claude Debussy",
+      "Maurice Ravel"
+    ]
+  },
+  {
+    "name": "Expresionismo",
+    "characteristics": [
+      "Abandono de la tonalidad",
+      "Uso de disonancias",
+      "Líneas melódicas con grandes saltos interválicos difíciles de entonar",
+      "Técnica 'sprechgesang' (canto hablado)",
+      "Tono 'histérico' e inquietante",
+      "Argumentos fuertes, violentos y con conductas poco comunes"
+    ],
+    "composers": [
+      "Alban Berg",
+      "Arnold Schoenberg"
+    ]
+  },
+  {
+    "name": "Nacionalismo",
+    "characteristics": [
+      "Búsqueda de identidad nacional a través de la música",
+      "Inspiración en músicas autóctonas",
+      "En EEUU, inspiración en el jazz"
+    ],
+    "composers": [
+      "Zoltán Kodály",
+      "George Gershwin",
+      "Manuel de Falla",
+      "Serguéi Prokófiev",
+      "Vaughan Williams",
+      "Jean Sibelius"
+    ]
+  },
+  {
+    "name": "Neoclasicismo",
+    "characteristics": [
+      "Retorno a los géneros del Clasicismo (concierto, sinfonía, suite...)",
+      "Alejamiento del impresionismo y expresionismo",
+      "Nueva claridad en la forma, melodía y textura"
+    ],
+    "composers": [
+      "Igor Stravinsky"
+    ]
+  },
+  {
+    "name": "Música Concreta",
+    "characteristics": [
+      "Grabación de sonidos naturales (tren, piano, pasos...)",
+      "Transformación electrónica de sonidos grabados"
+    ],
+    "composers": [
+      "Edward Varèse"
+    ]
+  },
+  {
+    "name": "Música Electrónica",
+    "characteristics": [
+      "Creación de sonidos propios con sintetizadores y otros medios",
+      "No utiliza sonidos de la naturaleza o instrumentos preexistentes"
+    ],
+    "composers": [
+      "Karheinz Stockhausen"
+    ]
+  },
+  {
+    "name": "Música Aleatoria",
+    "characteristics": [
+      "Incorporación de elementos al azar en la composición",
+      "No se fijan valores a las notas",
+      "Las dinámicas las elige el intérprete",
+      "Uso del piano preparado (concepto de John Cage)"
+    ],
+    "composers": [
+      "John Cage"
+    ]
+  }
+]

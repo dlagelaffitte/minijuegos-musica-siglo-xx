@@ -2,6 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+import MiniGame1 from './components/MiniGame1/MiniGame1'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -16,7 +17,8 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+      <h1>Minijuegos de Música del Siglo XX</h1>
+      <MiniGame1 />
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}

@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Claude Debussy",
+    "country": "Francia",
+    "style": "Impresionismo",
+    "works": []
+  },
+  {
+    "name": "Maurice Ravel",
+    "country": "Francia",
+    "style": "Impresionismo",
+    "works": []
+  },
+  {
+    "name": "Alban Berg",
+    "country": "Austria",
+    "style": "Expresionismo",
+    "works": []
+  },
+  {
+    "name": "Arnold Schoenberg",
+    "country": "Austria",
+    "style": "Expresionismo",
+    "works": []
+  },
+  {
+    "name": "Zoltán Kodály",
+    "country": "Hungría",
+    "style": "Nacionalismo",
+    "works": []
+  },
+  {
+    "name": "George Gershwin",
+    "country": "Estados Unidos",
+    "style": "Nacionalismo",
+    "works": []
+  },
+  {
+    "name": "Manuel de Falla",
+    "country": "España",
+    "style": "Nacionalismo",
+    "works": []
+  },
+  {
+    "name": "Serguéi Prokófiev",
+    "country": "Rusia",
+    "style": "Nacionalismo",
+    "works": []
+  },
+  {
+    "name": "Vaughan Williams",
+    "country": "Reino Unido",
+    "style": "Nacionalismo",
+    "works": []
+  },
+  {
+    "name": "Jean Sibelius",
+    "country": "Finlandia",
+    "style": "Nacionalismo",
+    "works": []
+  },
+  {
+    "name": "Igor Stravinsky",
+    "country": "Rusia",
+    "style": "Neoclasicismo",
+    "works": []
+  },
+  {
+    "name": "Edward Varèse",
+    "country": "Francia/Estados Unidos",
+    "style": "Música Concreta",
+    "works": []
+  },
+  {
+    "name": "Karheinz Stockhausen",
+    "country": "Alemania",
+    "style": "Música Electrónica",
+    "works": []
+  },
+  {
+    "name": "John Cage",
+    "country": "Estados Unidos",
+    "style": "Música Aleatoria",
+    "works": []
+  }
+]

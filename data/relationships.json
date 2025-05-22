@@ -1,0 +1,74 @@
+{
+  "styles_and_composers": {
+    "Impresionismo": [
+      "Claude Debussy",
+      "Maurice Ravel"
+    ],
+    "Expresionismo": [
+      "Alban Berg",
+      "Arnold Schoenberg"
+    ],
+    "Nacionalismo": [
+      "Zoltán Kodály",
+      "George Gershwin",
+      "Manuel de Falla",
+      "Serguéi Prokófiev",
+      "Vaughan Williams",
+      "Jean Sibelius"
+    ],
+    "Neoclasicismo": [
+      "Igor Stravinsky"
+    ],
+    "Música Concreta": [
+      "Edward Varèse"
+    ],
+    "Música Electrónica": [
+      "Karheinz Stockhausen"
+    ],
+    "Música Aleatoria": [
+      "John Cage"
+    ]
+  },
+  "styles_and_characteristics": {
+    "Impresionismo": [
+      "Melodías poco definidas",
+      "Acordes sofisticados",
+      "Escalas antiguas y pentatónicas",
+      "Instrumentación especial"
+    ],
+    "Expresionismo": [
+      "Abandono de la tonalidad",
+      "Disonancias",
+      "Grandes saltos interválicos",
+      "Sprechgesang",
+      "Tono histérico"
+    ],
+    "Nacionalismo": [
+      "Identidad nacional",
+      "Músicas autóctonas",
+      "Jazz (EEUU)"
+    ],
+    "Neoclasicismo": [
+      "Retorno a géneros clásicos",
+      "Claridad formal",
+      "Claridad melódica"
+    ],
+    "Música de Vanguardia": [
+      "Desligada de instrumentos tradicionales",
+      "Notación no tradicional"
+    ]
+  },
+  "vanguardias": {
+    "Música Concreta": [
+      "Grabación de sonidos naturales",
+      "Transformación electrónica"
+    ],
+    "Música Electrónica": [
+      "Creación de sonidos con sintetizadores"
+    ],
+    "Música Aleatoria": [
+      "Elementos al azar",
+      "Piano preparado"
+    ]
+  }
+}
