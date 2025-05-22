@@ -1,37 +1,27 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
-import MiniGame1 from './components/MiniGame1/MiniGame1'
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import NavBar from './components/NavBar';
+import Home from './components/Home';
+import MiniGame1 from './components/MiniGame1';
+import MiniGame2 from './components/MiniGame2';
+import MiniGame3 from './components/MiniGame3';
+import MiniGame4 from './components/MiniGame4';
+import MiniGame5 from './components/MiniGame5';
+import './index.css';
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Minijuegos de Música del Siglo XX</h1>
-      <MiniGame1 />
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+    <BrowserRouter basename="/minijuegos-musica-siglo-xx">
+      <NavBar />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/minijuego1" element={<MiniGame1 />} />
+        <Route path="/minijuego2" element={<MiniGame2 />} />
+        <Route path="/minijuego3" element={<MiniGame3 />} />
+        <Route path="/minijuego4" element={<MiniGame4 />} />
+        <Route path="/minijuego5" element={<MiniGame5 />} />
+      </Routes>
+    </BrowserRouter>
+  );
 }
 
-export default App
+export default App;
