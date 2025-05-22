@@ -7,6 +7,7 @@ import MiniGame3 from './components/MiniGame3';
 import MiniGame4 from './components/MiniGame4';
 import MiniGame5 from './components/MiniGame5';
 import './index.css';
+import MusicaGrid from './components/MusicaGrid';
 
 function App() {
   return (
@@ -14,7 +15,7 @@ function App() {
       <NavBar />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/minijuego1" element={<MiniGame1 />} />
+        <Route path="/minijuego1" element={<MusicaGrid />} />
         <Route path="/minijuego2" element={<MiniGame2 />} />
         <Route path="/minijuego3" element={<MiniGame3 />} />
         <Route path="/minijuego4" element={<MiniGame4 />} />
